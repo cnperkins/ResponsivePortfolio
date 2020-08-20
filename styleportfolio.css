@@ -9,14 +9,13 @@ footer {
 body {
     background: url(https://wallpaperaccess.com/full/532931.jpg);
     background-size: 100%;
-    color: whitesmoke;
+    color: black;
     font-family: monospace;
-    font-size: 22px;
     font-weight: bolder;
 }
 
-h1, h4, a {
-    font-family: monospace;
+h1 {
     color: whitesmoke;
+    font-family: monospace;
     font-weight: bold;
 }
