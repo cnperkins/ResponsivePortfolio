@@ -4,17 +4,33 @@ img {
 }
 footer {
     text-align: center;
+    
 }
 
 body {
     background: url(https://wallpaperaccess.com/full/532931.jpg);
     background-size: 100%;
+    font-family: monospace;
+    font-weight: bolder;
+    color: whitesmoke;
+    font-size: 22px;
+    
+}
+
+h5 {
     color: black;
     font-family: monospace;
     font-weight: bolder;
 }
 
 h1 {
+    color: whitesmoke;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+
+a {
     color: whitesmoke;
     font-family: monospace;
     font-weight: bold;
